@@ -1,0 +1,18 @@
+     body {
+        background: linear-gradient(to right, #6a11cb, #2575fc);
+        color: white;
+        font-family: Arial, sans-serif;
+      }
+      fieldset {
+        border: 2px solid white;
+        padding: 10px;
+      }
+      label {
+        display: block;
+        margin: 10px 0;
+      }
+      input, select, textarea {
+        margin-top: 5px;
+        padding: 5px;
+        border-radius: 5px;
+      }
